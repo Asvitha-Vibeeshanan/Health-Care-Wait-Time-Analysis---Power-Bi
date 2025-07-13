@@ -8,13 +8,6 @@ This Power BI dashboard is designed to:
 - Analyze **historical trends** in patient wait times between 2018 and 2021.
 - Enable **granular analysis** at the specialty and age profile level.
 
-
-## Key Metrics
-
-- **Current Total Wait List vs. Previous Year**  
-- **Wait List Breakdown by Case Type**  
-- **Top 5 Specialties with Longest Median Wait**  
-
 ## Dataset Overview
 
 | File Name            | Description                                                  |
@@ -68,4 +61,10 @@ Each record includes:
 - **Power Query** – Data transformation
 - **CSV** – Data source format
 - **DAX** – Custom calculations and metrics
+
+## Explore the Live Dashboard
+
+[Click here to view the Dashboard](https://app.powerbi.com/groups/me/reports/ffbb859a-28ce-455d-8dfb-53717d2fa234/b7c3cacbea47df4217a1?experience=power-bi)
+
+> _Note: Access may require Power BI login permissions._
 
